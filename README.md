@@ -20,8 +20,8 @@ The general structure was coded in each of four different languajes:
 
 - [Java] - the principal language used
 - [Java Script] - checking the code from this view to practice
-- [PHP] - 
-- [Phyton] - 
+- [PHP] - coding in php to understad how works in this language
+- [Phyton] - an extra language to compare with the other codes
 
 The project was based on the Platzi course:
 https://platzi.com/clases/oop/
